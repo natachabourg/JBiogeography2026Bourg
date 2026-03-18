@@ -1,0 +1,3 @@
+The .sh file is the one file you need to run on the cluster. 
+The OpenDrift_bluebottles.py file contains information you'll want to modify to run the tracking on different genetic samples. 
+The BBDrift_AS2024.py file is not to modify.
